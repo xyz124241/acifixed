@@ -1,0 +1,14 @@
+# ACI 1.4.2 - Minecraft 26.2
+resource-pack:
+  send-on-join: true
+  required: false
+  prompt: "<gradient:#ff70c8:#6ab7ff>Bitte lade das ACI-Resourcepack herunter!</gradient>"
+  # Nach dem GitHub-Release hier den direkten Download-Link des ZIP-Assets eintragen.
+  # Beispiel: https://github.com/OWNER/REPO/releases/latest/download/ACI-Crystals-ResourcePack-26.2-v1.4.2.zip
+  url: ""
+  sha1: ""
+  # Alternativ: eingebauter HTTP-Server. Bei Verwendung des GitHub-Links wird dieser ignoriert.
+  host:
+    enabled: true
+    port: 25708
+    public-address: "neptunsmp.de"

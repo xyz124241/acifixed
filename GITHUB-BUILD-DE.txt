@@ -1,0 +1,17 @@
+ACI 1.4.2 fuer Paper 26.2 – GitHub-Build
+
+DIESES PAKET ENTHAELT DEN JAVA-QUELLCODE UND DAS RESOURCEPACK, KEINE FERTIG KOMPILIERTE JAR.
+Paper 26.2 wird mit Java 25 gebaut. GitHub Actions verwendet Java 25 und Paper-API 26.2.
+
+1. ZIP entpacken und den Inhalt des Ordners Quellcode in dein GitHub-Repository hochladen.
+2. Den Branch main pushen. GitHub Actions baut die JAR als Artifact.
+3. Fuer einen Release den Tag v1.4.2 erstellen und pushen:
+   git tag v1.4.2 && git push origin v1.4.2
+4. Danach erscheinen im GitHub-Release ACI-1.4.2.jar und ACI-Crystals-ResourcePack-26.2-v1.4.2.zip.
+5. Plugin-JAR nach plugins/ kopieren. Das Resourcepack nicht in plugins ablegen.
+6. Fuer GitHub-Autodownload in plugins/ACI/config.yml die OWNER/REPO-URL und SHA-1 eintragen.
+
+Manuelle Resourcepack-Installation: Nur ACI-Crystals-ResourcePack-26.2-v1.4.2.zip nach %appdata%\\.minecraft\\resourcepacks legen und im Spiel aktivieren.
+
+Resourcepack SHA-1:
+d914462f658204c0ce8426f2ac1a2800130733a3

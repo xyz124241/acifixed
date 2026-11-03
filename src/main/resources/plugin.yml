@@ -1,0 +1,21 @@
+name: ACI
+version: 1.4.3
+main: de.aci.AciPlugin
+api-version: '26.2'
+description: Custom items, textures, crafting, effects, item settings and custom shulkers
+commands:
+  aci:
+    description: Admin menu for custom items
+    usage: /aci [reload|pack|give <id> [player] [amount]|list]
+    permission: aci.admin
+  ci:
+    description: Recipe book for the custom items
+    usage: /ci
+    permission: aci.use
+permissions:
+  aci.admin:
+    description: Create and edit custom items
+    default: op
+  aci.use:
+    description: Open the recipe book
+    default: true

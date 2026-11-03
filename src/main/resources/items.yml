@@ -1,0 +1,307 @@
+# ACI Crystal Collection - 38 separate crystals
+# Replaces the previous default crystal list with the current 38-crystal collection.
+items:
+  pink_crystal:
+    name: "<bold><gradient:#fff0fa:#ec70c0>Pink Crystal I</gradient></bold>"
+    material: AMETHYST_SHARD
+    texture: pink_crystal
+    potion-type: ""
+    lore: []
+    effects: []
+    recipes: []
+  pink_crystal_2:
+    name: "<bold><gradient:#ffb7e9:#d93b9b>Pink Crystal II</gradient></bold>"
+    material: AMETHYST_SHARD
+    texture: pink_crystal_2
+    potion-type: ""
+    lore: []
+    effects: []
+    recipes: []
+  pink_crystal_3:
+    name: "<bold><gradient:#f08ac8:#a91c70>Pink Crystal III</gradient></bold>"
+    material: AMETHYST_SHARD
+    texture: pink_crystal_3
+    potion-type: ""
+    lore: []
+    effects: []
+    recipes: []
+  red_crystal:
+    name: "<bold><gradient:#ffd0df:#e65a72>Red Crystal I</gradient></bold>"
+    material: AMETHYST_SHARD
+    texture: red_crystal
+    potion-type: ""
+    lore: []
+    effects: []
+    recipes: []
+  red_crystal_2:
+    name: "<bold><gradient:#ff7777:#c91b25>Red Crystal II</gradient></bold>"
+    material: AMETHYST_SHARD
+    texture: red_crystal_2
+    potion-type: ""
+    lore: []
+    effects: []
+    recipes: []
+  red_crystal_3:
+    name: "<bold><gradient:#ff5c40:#9d1017>Red Crystal III</gradient></bold>"
+    material: AMETHYST_SHARD
+    texture: red_crystal_3
+    potion-type: ""
+    lore: []
+    effects: []
+    recipes: []
+  orange_crystal:
+    name: "<bold><gradient:#ffe0be:#f08a3c>Orange Crystal I</gradient></bold>"
+    material: AMETHYST_SHARD
+    texture: orange_crystal
+    potion-type: ""
+    lore: []
+    effects: []
+    recipes: []
+  orange_crystal_2:
+    name: "<bold><gradient:#ffb15c:#e66c16>Orange Crystal II</gradient></bold>"
+    material: AMETHYST_SHARD
+    texture: orange_crystal_2
+    potion-type: ""
+    lore: []
+    effects: []
+    recipes: []
+  orange_crystal_3:
+    name: "<bold><gradient:#f78a32:#a9430c>Orange Crystal III</gradient></bold>"
+    material: AMETHYST_SHARD
+    texture: orange_crystal_3
+    potion-type: ""
+    lore: []
+    effects: []
+    recipes: []
+  yellow_crystal:
+    name: "<bold><gradient:#fff8bd:#f6dc3d>Yellow Crystal I</gradient></bold>"
+    material: AMETHYST_SHARD
+    texture: yellow_crystal
+    potion-type: ""
+    lore: []
+    effects: []
+    recipes: []
+  yellow_crystal_2:
+    name: "<bold><gradient:#fff073:#e9b91e>Yellow Crystal II</gradient></bold>"
+    material: AMETHYST_SHARD
+    texture: yellow_crystal_2
+    potion-type: ""
+    lore: []
+    effects: []
+    recipes: []
+  yellow_crystal_3:
+    name: "<bold><gradient:#ffcf4f:#b9780d>Yellow Crystal III</gradient></bold>"
+    material: AMETHYST_SHARD
+    texture: yellow_crystal_3
+    potion-type: ""
+    lore: []
+    effects: []
+    recipes: []
+  lime_crystal:
+    name: "<bold><gradient:#d7ffbf:#7be04c>Green Crystal I</gradient></bold>"
+    material: AMETHYST_SHARD
+    texture: lime_crystal
+    potion-type: ""
+    lore: []
+    effects: []
+    recipes: []
+  green_crystal_2:
+    name: "<bold><gradient:#9cff68:#27a82d>Green Crystal II</gradient></bold>"
+    material: AMETHYST_SHARD
+    texture: green_crystal_2
+    potion-type: ""
+    lore: []
+    effects: []
+    recipes: []
+  green_crystal_3:
+    name: "<bold><gradient:#48d33f:#087a24>Green Crystal III</gradient></bold>"
+    material: AMETHYST_SHARD
+    texture: green_crystal_3
+    potion-type: ""
+    lore: []
+    effects: []
+    recipes: []
+  emerald_crystal:
+    name: "<bold><gradient:#8edb79:#1d793b>Dark Green Crystal I</gradient></bold>"
+    material: AMETHYST_SHARD
+    texture: emerald_crystal
+    potion-type: ""
+    lore: []
+    effects: []
+    recipes: []
+  dark_green_crystal_2:
+    name: "<bold><gradient:#4cac55:#0e592f>Dark Green Crystal II</gradient></bold>"
+    material: AMETHYST_SHARD
+    texture: dark_green_crystal_2
+    potion-type: ""
+    lore: []
+    effects: []
+    recipes: []
+  dark_green_crystal_3:
+    name: "<bold><gradient:#73c7ad:#176a58>Dark Green Crystal III</gradient></bold>"
+    material: AMETHYST_SHARD
+    texture: dark_green_crystal_3
+    potion-type: ""
+    lore: []
+    effects: []
+    recipes: []
+  light_blue_crystal:
+    name: "<bold><gradient:#e1fbff:#76cfff>Light Blue Crystal I</gradient></bold>"
+    material: AMETHYST_SHARD
+    texture: light_blue_crystal
+    potion-type: ""
+    lore: []
+    effects: []
+    recipes: []
+  light_blue_crystal_2:
+    name: "<bold><gradient:#b8efff:#51b9ee>Light Blue Crystal II</gradient></bold>"
+    material: AMETHYST_SHARD
+    texture: light_blue_crystal_2
+    potion-type: ""
+    lore: []
+    effects: []
+    recipes: []
+  light_blue_crystal_3:
+    name: "<bold><gradient:#83dfff:#278edc>Light Blue Crystal III</gradient></bold>"
+    material: AMETHYST_SHARD
+    texture: light_blue_crystal_3
+    potion-type: ""
+    lore: []
+    effects: []
+    recipes: []
+  cyan_crystal:
+    name: "<bold><gradient:#b5ffff:#36dfe4>Cyan Crystal I</gradient></bold>"
+    material: AMETHYST_SHARD
+    texture: cyan_crystal
+    potion-type: ""
+    lore: []
+    effects: []
+    recipes: []
+  cyan_crystal_2:
+    name: "<bold><gradient:#62f6f1:#00a7c8>Cyan Crystal II</gradient></bold>"
+    material: AMETHYST_SHARD
+    texture: cyan_crystal_2
+    potion-type: ""
+    lore: []
+    effects: []
+    recipes: []
+  cyan_crystal_3:
+    name: "<bold><gradient:#36d8e8:#087f9c>Cyan Crystal III</gradient></bold>"
+    material: AMETHYST_SHARD
+    texture: cyan_crystal_3
+    potion-type: ""
+    lore: []
+    effects: []
+    recipes: []
+  blue_crystal:
+    name: "<bold><gradient:#7ebcff:#164bd8>Dark Blue Crystal I</gradient></bold>"
+    material: AMETHYST_SHARD
+    texture: blue_crystal
+    potion-type: ""
+    lore: []
+    effects: []
+    recipes: []
+  dark_blue_crystal_2:
+    name: "<bold><gradient:#526ff5:#172caa>Dark Blue Crystal II</gradient></bold>"
+    material: AMETHYST_SHARD
+    texture: dark_blue_crystal_2
+    potion-type: ""
+    lore: []
+    effects: []
+    recipes: []
+  dark_blue_crystal_3:
+    name: "<bold><gradient:#4c55d8:#10165f>Dark Blue Crystal III</gradient></bold>"
+    material: AMETHYST_SHARD
+    texture: dark_blue_crystal_3
+    potion-type: ""
+    lore: []
+    effects: []
+    recipes: []
+  purple_crystal:
+    name: "<bold><gradient:#e8c4ff:#9852dc>Purple Crystal I</gradient></bold>"
+    material: AMETHYST_SHARD
+    texture: purple_crystal
+    potion-type: ""
+    lore: []
+    effects: []
+    recipes: []
+  purple_crystal_2:
+    name: "<bold><gradient:#d287ff:#7824c7>Purple Crystal II</gradient></bold>"
+    material: AMETHYST_SHARD
+    texture: purple_crystal_2
+    potion-type: ""
+    lore: []
+    effects: []
+    recipes: []
+  purple_crystal_3:
+    name: "<bold><gradient:#bd63e9:#57137e>Purple Crystal III</gradient></bold>"
+    material: AMETHYST_SHARD
+    texture: purple_crystal_3
+    potion-type: ""
+    lore: []
+    effects: []
+    recipes: []
+  copper_crystal:
+    name: "<bold><gradient:#ffd0aa:#b45c27>Brown Crystal I</gradient></bold>"
+    material: AMETHYST_SHARD
+    texture: copper_crystal
+    potion-type: ""
+    lore: []
+    effects: []
+    recipes: []
+  brown_crystal_2:
+    name: "<bold><gradient:#c98555:#783b1b>Brown Crystal II</gradient></bold>"
+    material: AMETHYST_SHARD
+    texture: brown_crystal_2
+    potion-type: ""
+    lore: []
+    effects: []
+    recipes: []
+  brown_crystal_3:
+    name: "<bold><gradient:#a7653b:#482314>Brown Crystal III</gradient></bold>"
+    material: AMETHYST_SHARD
+    texture: brown_crystal_3
+    potion-type: ""
+    lore: []
+    effects: []
+    recipes: []
+  white_crystal:
+    name: "<bold><gradient:#ffffff:#dfe8ff>White Crystal</gradient></bold>"
+    material: AMETHYST_SHARD
+    texture: white_crystal
+    potion-type: ""
+    lore: []
+    effects: []
+    recipes: []
+  light_gray_crystal:
+    name: "<bold><gradient:#f5f5f5:#c6ccd5>Off-White Crystal</gradient></bold>"
+    material: AMETHYST_SHARD
+    texture: light_gray_crystal
+    potion-type: ""
+    lore: []
+    effects: []
+    recipes: []
+  gray_crystal:
+    name: "<bold><gradient:#e1e2e7:#858b98>Gray Crystal</gradient></bold>"
+    material: AMETHYST_SHARD
+    texture: gray_crystal
+    potion-type: ""
+    lore: []
+    effects: []
+    recipes: []
+  dark_gray_crystal:
+    name: "<bold><gradient:#858994:#363a45>Dark Gray Crystal</gradient></bold>"
+    material: AMETHYST_SHARD
+    texture: dark_gray_crystal
+    potion-type: ""
+    lore: []
+    effects: []
+    recipes: []
+  black_crystal:
+    name: "<bold><gradient:#50515a:#08090d>Black Crystal</gradient></bold>"
+    material: AMETHYST_SHARD
+    texture: black_crystal
+    potion-type: ""
+    lore: []
+    effects: []
+    recipes: []
